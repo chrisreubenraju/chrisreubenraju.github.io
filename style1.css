@@ -1,0 +1,20 @@
+h1 {
+    display: grid;
+    color: aliceblue;
+    background-color: cadetblue;
+    justify-content: center;
+
+}
+
+/* body {
+    background-color: black;
+} */
+
+p {
+    
+    border: 4px;
+    border-radius: 30%;
+    background-color: brown;
+    color: aliceblue;
+    
+}
